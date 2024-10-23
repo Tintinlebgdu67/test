@@ -12,6 +12,7 @@ print(type(prenom))
 print(type(promotion))
 print(type(moy))
 print("L'etudiant",nom,prenom,"de la promotion",promotion, "a une moyenne de" ,moy)
+test
 
 
 
